@@ -1,5 +1,6 @@
 (function() {
   Backbone.d3 = {
+		VERSION: "0.1.0",
 		PlotView: Backbone.View.extend({
       initialize: function(collection, settings) {
         _.bindAll(this);
