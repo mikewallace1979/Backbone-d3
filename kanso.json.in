@@ -1,0 +1,26 @@
+{
+  "name": "backbone-d3",
+  "version": VERSION,
+  "categories": [
+    "frontend",
+    "visualization"
+  ],
+  "maintainers": [
+    {
+      "name": "Mike Wallace",
+      "url": "https://github.com/mikewallace1979"
+    }
+  ],
+  "url": "https://github.com/",
+  "modules": [
+    "backbone-d3.js",
+    "visualisations/pie.js"
+  ],
+  "modules_attachment": false,
+  "dependencies": {
+    "modules": ">=0.0.8",
+    "backbone": ">=0.5.3",
+    "d3": ">=0.7.0"
+  },
+  "description": "A simple interface to visualise with d3 dynamic data held in backbone collections."
+}
