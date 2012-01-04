@@ -14,7 +14,11 @@
   "url": "http://drsm79.github.com/Backbone-d3/",
   "modules": [
     "backbone-d3.js",
-    "visualisations/pie.js"
+    "visualisations/bar.js",
+    "visualisations/calendar.js",
+    "visualisations/line.js",
+    "visualisations/pie.js",
+    "visualisations/scatter.js"
   ],
   "modules_attachment": false,
   "dependencies": {
